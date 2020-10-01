@@ -1,2 +1,2 @@
 # Machine-Learning
-Contains ml excercise coursera 
+Contains ML coursera course by Andrew NG Excercises.  
